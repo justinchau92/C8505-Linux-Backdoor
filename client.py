@@ -1,20 +1,19 @@
 #  =================================================================
-#  client.py
+#  	SOURCE FILE: client.py
 #  
 #
+#	DATE: October 23rd 2017
 #  
 #  
-#  
-#  
+#  	AUTHOR: Paul Cabanez, Justin Chau
 #
+#	
+#	DESCRIPTION: Client program that works with backdoor.py
+#		Connects with backdoor placed on a seperate workstation. Sends
+#		commands to backdoor to gain information of the backdoor workstation.
+#	
 #
-#
-#
-#
-#
-#
-#
-#  
+#	LAST REVISED: October 19th 2017
 #  =================================================================
 
 import time
