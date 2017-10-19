@@ -1,0 +1,8 @@
+[config]
+destIP = 127.0.0.1
+srcIP = 127.0.0.1
+destPort = 8506
+srcPort = 8000
+fileDir = ""
+password = p@ssword
+portknocks = 7005,7006,8505
